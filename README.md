@@ -10,3 +10,4 @@ Problems can be found at https://projecteuler.net/archives
 * Problem 4 - Largest Palindrome Product
 * Problem 5 - Smallest Multiple
 * Problem 6 - Sum Square Difference
+* Problem 9 - Special Pythagorean triplet

@@ -8,8 +8,5 @@ Problems can be found at https://projecteuler.net/archives
 * Problem 1 - Multiples of 3 and 5
 
 * Problem 4 - Largest Palindrome Product
-
+* Problem 5 - Smallest Multiple
 * Problem 6 - Sum Square Difference
-
-
-

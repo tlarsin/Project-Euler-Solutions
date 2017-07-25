@@ -20,9 +20,9 @@ def init():
         i = len(fibList) - 1
         val = 0
 
-        if(i + 1 < 1):
-            fibList.append(1)
         if(i + 1 < 2):
+            fibList.append(1)
+        if(i + 1 < 3):
             fibList.append(2)
         else:
             val += fibList[i] + fibList[i - 1]

@@ -3,8 +3,9 @@ Solutions to the Project Euler problems.
 
 Problems can be found at https://projecteuler.net/archives
 
-# Problems I have solved
 # Total problems solved: 11
+
+# Problems I have solved
 
 * Problem 1 - Multiples of 3 and 5
 * Problem 2 - Even Fibonacci numbers

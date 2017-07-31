@@ -3,7 +3,7 @@ Solutions to the Project Euler problems.
 
 Problems can be found at https://projecteuler.net/archives
 
-# Total problems solved: 16
+# Total problems solved: 18
 
 # Problems I have solved
 
@@ -18,6 +18,8 @@ Problems can be found at https://projecteuler.net/archives
 * Problem 8 - Largest Product in a series
 * Problem 9 - Special Pythagorean triplet
 * Problem 10 - Summation of primes
+* Problem 12 - Highly divisible triangular number
+* Problem 14 - Longest Collatz sequence
 * Problem 16 - Power Digit Sum
 * Problem 13 - Large sum
 * Problem 20 - Factorial digit sum

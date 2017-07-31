@@ -3,7 +3,7 @@ Solutions to the Project Euler problems.
 
 Problems can be found at https://projecteuler.net/archives
 
-# Total problems solved: 18
+# Total problems solved: 19
 
 # Problems I have solved
 
@@ -21,6 +21,7 @@ Problems can be found at https://projecteuler.net/archives
 * Problem 12 - Highly divisible triangular number
 * Problem 14 - Longest Collatz sequence
 * Problem 16 - Power Digit Sum
+* Problem 17 - Number letter counts
 * Problem 13 - Large sum
 * Problem 20 - Factorial digit sum
 * Problem 25 - 1000-digit Fibonacci number
